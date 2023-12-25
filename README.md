@@ -17,11 +17,11 @@
 
 ## Como Executar o Projeto
 
-1. Clone o repositório: git clone https://github.com/seu-usuario/seu-projeto.git
-2. Navegue até o diretório do projeto: cd seu-projeto
+1. Clone o repositório: git clone https://github.com/maxjdev/EBAC_Front-React-IMC_Calc/tree/main
+2. Navegue até o diretório do projeto: cd EBAC_Front-React-IMC_Calc
 3. Instale as dependências: npm install
-4. Inicie o servidor de desenvolvimento: npm start
-5. Abra seu navegador da web e vá para http://localhost:3000
+4. Inicie o servidor de desenvolvimento: npm run build ou npm run dev
+5. Abra seu navegador da web e vá para localhost indicado no output do terminal
 
 ## Utilizado
 
