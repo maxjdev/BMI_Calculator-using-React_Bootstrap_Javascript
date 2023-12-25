@@ -23,6 +23,14 @@
 4. Inicie o servidor de desenvolvimento: npm start
 5. Abra seu navegador da web e vá para http://localhost:3000
 
+## Utilizado
+
+- React
+- Componentes
+- Hooks: useState
+- Vite
+- Bootstrap
+- Npm
 
 ## Categorias de Interpretação do IMC
 
