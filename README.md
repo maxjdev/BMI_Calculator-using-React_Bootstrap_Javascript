@@ -1,52 +1,58 @@
 <div align="center">
-  <img src="https://i.postimg.cc/3xbR5F7H/rounded-in-photoretrica.png" width="150">
-  
-  # EBAC: Desenvolvedor Full Stack Java: Front-End
 
-## Projeto: Calculadora de IMC com React <a href="https://ebac-front-react-imc-calc.vercel.app/">Deploy</a>
+  <h1>Project: BMI Calculator using React, Bootstrap, JavaScript and Vite <a href="https://ebac-front-react-imc-calc.vercel.app/">Deploy</a></h1>
+
+  ### Techs Used
+
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 </div>
 
-## Estrutura do Projeto
+## Description
 
-- `src/components/Header.jsx`: Componente React para o cabeçalho da aplicação.
+A minimalist BMI Calculator using React, Bootstrap, Vite, JavaScript, HTML, CSS.
 
-- `src/components/Imc.jsx`: Componente React para o formulário e exibição do resultado da calculadora de IMC.
+## BMI Interpretation Categories
 
-- `src/App.jsx`: Componente principal da aplicação que integra os componentes Header e Imc.
+- Underweight: BMI less than 18.5
+- Normal weight: BMI between 18.5 and 24.9
+- Overweight: BMI between 25 and 29.9
+- Obesity: BMI of 30 or more
 
+## How to Start the Project
 
-## Como Executar o Projeto
+- **Clone the Repository:**
 
-1. Clone o repositório: git clone https://github.com/maxjdev/EBAC_Front-React-IMC_Calc/tree/main
-2. Navegue até o diretório do projeto: cd EBAC_Front-React-IMC_Calc
-3. Instale as dependências: npm install
-4. Inicie o servidor de desenvolvimento: npm run build ou npm run dev
-5. Abra seu navegador da web e vá para localhost indicado no output do terminal
+```bash
+git clone https://github.com/your-username/repository-name.git
+```
+```bash
+cd repository-name
+```
+```bash
+npm install
+```
+```bash
+npm run dev
+```
 
-## Utilizado
+## Contributing
 
-- React
-- Componentes
-- Hooks: useState
-- Vite
-- Bootstrap
-- Npm
+We welcome and appreciate your contributions to this project! Whether you have suggestions, bug fixes, or new features you'd like to add, please feel free to fork this repository.
 
-## Categorias de Interpretação do IMC
+### How to Contribute
 
-- Abaixo do Peso: IMC menor que 18,5
-- Peso Normal: IMC entre 18,5 e 24,9
-- Sobrepeso: IMC entre 25 e 29,9
-- Obesidade: IMC de 30 ou mais
+1. Fork the project.
+2. Create a branch for your contribution: `git checkout -b my-contribution`.
+3. Make your changes and commit: `git commit -m 'Add my contribution'`.
+4. Push to your branch: `git push origin my-contribution`.
+5. Open a pull request for review.
 
-## Como Contribuir
+## Feedback and Issues
 
-1. Faça um fork do projeto.
-2. Crie uma branch para suas alterações: git checkout -b feature/nova-feature.
-3. Faça commit das suas alterações: git commit -m 'Adiciona nova feature'.
-4. Faça push para a branch: git push origin feature/nova-feature.
-5. Abra um pull request.
-
-<h3 align="center">
-  <i>Obrigado por explorar minha Calculadora de IMC com React!</i>
-</h3>
+If you have contributions, suggestions, or feedback, feel free to open an issue.
